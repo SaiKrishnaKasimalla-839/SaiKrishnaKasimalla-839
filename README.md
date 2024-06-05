@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm SAI KRISHNA KASIMALLA, a passionate Computer Science student at <br>GGU. I have a strong interest in software development, Web Development, <br>and artificial intelligence.<br><br>🔭 I’m currently working on [Student Management Portal]:Java, Mysql, jdbc.<br><br>👯 I’m looking to collaborate on [Project's]: Such as open-source projects, startups, or research projects.<br><br>🌱 I’m currently learning [JAVA FULL STACK]:Html5,Css3,Angular,MySql,Jdbc,Servlets,Hybernet<br><br>Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
+👋 Hello! I'm SAI KRISHNA KASIMALLA, a passionate Computer Science student at GGU. I have a strong interest in software development, Web Development,and artificial intelligence.<br><br>🔭 I’m currently working on [Student Management Portal]:Java, Mysql, jdbc.<br><br>👯 I’m looking to collaborate on [Project's]: Such as open-source projects, startups, or research projects.<br><br>🌱 I’m currently learning [JAVA FULL STACK]:Html5,Css3,Angular,MySql,Jdbc,Servlets,Hybernet<br><br>Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
 
 
 # 💻 Tech Stack:
