@@ -30,9 +30,9 @@ $ cat developer.json
   "name": "Sai Krishna Kasimalla",
   "role": "Full Stack Developer",
   "location": "India 🇮🇳",
-  "currently_building": "Virtual Class Room 🎓",
-  "currently_learning": "DSA Using Java ☕",
-  "passion": ["Clean Code", "Scalable Systems", "Great UX"],
+  "currently_building": "Ai Powered Medico...🎓",
+  "currently_learning": "DevSecOps ☕",
+  "passion": ["Clean Code", "Scalable Systems"],
   "fun_fact": "The first computer bug was a real moth 🦋 (1947)",
   "available_for": "Collaborations & Opportunities",
   "contact": "saikrishnakasimalla@gmail.com"
@@ -48,10 +48,9 @@ $ cat developer.json
 <td width="50%">
 
 ### 🔭 Current Project
-**Virtual Class Room** — Building an immersive online learning platform that bridges the gap between teachers and students through real-time interaction.
-
+**Ai Powered Medico...🎓** — 
 ### 🌱 Currently Learning
-**DSA Using Java** — Sharpening problem-solving skills with data structures and algorithms, one challenge at a time.
+**DevSecOps** — 
 
 </td>
 <td width="50%">
