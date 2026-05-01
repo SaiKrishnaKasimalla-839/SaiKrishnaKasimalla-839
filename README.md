@@ -154,7 +154,7 @@ $ cat developer.json
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-saikrishnakasimalla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishnakasimalla@gmail.com)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SwBQBFNl6BtXdpmVrsHHoiDIjzlbV6Qy/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1P2wL99wLj9xpsSjbB8ChDINTLsH0iFEM/view?usp=sharing)
 
 </div>
 
