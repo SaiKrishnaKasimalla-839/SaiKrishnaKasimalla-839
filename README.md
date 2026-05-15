@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;duration=2600&amp;pause=800&amp;color=E8401A&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;lines=%E2%9E%9C+Building+AI+Powered+Medico+%F0%9F%8F%A5;%E2%9E%9C+500%2B+DSA+Problems+Solved+%E2%9A%A1;%E2%9E%9C+AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;%E2%9E%9C+Open+to+Full-time+Opportunities+%F0%9F%9A%80;%E2%9E%9C+B.Tech+CSE+%E2%80%94+GIET+Rajahmundry+2025+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-</div>
-
 <br/><br/>
 
 <!-- BADGES -->
@@ -24,7 +22,7 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=saikrishnakasimalla-839&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e8401a&icon_color=1a3ae8&text_color=8b949e&ring_color=e8401a"/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=saikrishnakasimalla-839&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e8401a&amp;icon_color=1a3ae8&amp;text_color=8b949e&amp;ring_color=e8401a"/>
 
 ### `whoami`
 
@@ -50,12 +48,12 @@ const saiKrishna = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishnakasimalla-839&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e8401a&fire=1a3ae8&currStreakLabel=e8401a&sideLabels=8b949e&dates=484f58"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnakasimalla-839&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8401a&text_color=8b949e"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishnakasimalla-839&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=e8401a&amp;fire=1a3ae8&amp;currStreakLabel=e8401a&amp;sideLabels=8b949e&amp;dates=484f58"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnakasimalla-839&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e8401a&amp;text_color=8b949e"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishnakasimalla-839&bg_color=0d1117&color=e8401a&line=1a3ae8&point=ffffff&area=true&area_color=e8401a&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishnakasimalla-839&amp;bg_color=0d1117&amp;color=e8401a&amp;line=1a3ae8&amp;point=ffffff&amp;area=true&amp;area_color=e8401a&amp;hide_border=true"/>
 
 </div>
 
@@ -102,7 +100,7 @@ const saiKrishna = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikrishnakasimalla-839&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saikrishnakasimalla-839&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" width="100%"/>
 </div>
 
 ---
@@ -126,10 +124,10 @@ const saiKrishna = {
 
 | Platform | Handle | Focus |
 |:---:|:---:|:---|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> | [sai\_krishna-123](https://www.leetcode.com/sai_krishna-123) | DSA · Arrays · Trees · DP · Graphs |
-| <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> | [saikrishnakasim1](https://www.hackerrank.com/saikrishnakasim1) | Java · Problem Solving · Certified |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> | [saikrishnak\_45](https://www.codechef.com/users/saikrishnak_45) | Competitive Rounds |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> | [saikrishna9xc3](https://auth.geeksforgeeks.org/user/saikrishna9xc3) | CS Fundamentals |
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/> | [sai\_krishna-123](https://www.leetcode.com/sai_krishna-123) | DSA · Arrays · Trees · DP · Graphs |
+| <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"/> | [saikrishnakasim1](https://www.hackerrank.com/saikrishnakasim1) | Java · Problem Solving · Certified |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white"/> | [saikrishnak\_45](https://www.codechef.com/users/saikrishnak_45) | Competitive Rounds |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white"/> | [saikrishna9xc3](https://auth.geeksforgeeks.org/user/saikrishna9xc3) | CS Fundamentals |
 
 </div>
 
@@ -171,7 +169,7 @@ const saiKrishna = {
 </picture>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8401a,60:2d0a0a,100:0a0a0f&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e8401a,60:2d0a0a,100:0a0a0f&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
 
 *⭐ Star a repo if it helped you · Built with focus, shipped with pride*
 
