@@ -1,12 +1,14 @@
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0a0f,70:2d0a0a,100:e8401a&height=240&section=header&text=Sai%20Krishna%20Kasimalla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%26%20React%20%E2%80%A2%20AWS%20Certified&descAlignY=58&descColor=ffb3a0&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,40:1a0a0f,70:2d0a0a,100:e8401a&amp;height=240&amp;section=header&amp;text=Sai%20Krishna%20Kasimalla&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%26%20React%20%E2%80%A2%20AWS%20Certified&amp;descAlignY=58&amp;descColor=ffb3a0&amp;descSize=16"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=E8401A&center=true&vCenter=true&repeat=true&width=700&lines=%E2%9E%9C+Building+AI+Powered+Medico+%F0%9F%8F%A5;%E2%9E%9C+500%2B+DSA+Problems+Solved+%E2%9A%A1;%E2%9E%9C+AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;%E2%9E%9C+Open+to+Full-time+Opportunities+%F0%9F%9A%80;%E2%9E%9C+B.Tech+CSE+%E2%80%94+GIET+Rajahmundry+2025+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;duration=2600&amp;pause=800&amp;color=E8401A&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;lines=%E2%9E%9C+Building+AI+Powered+Medico+%F0%9F%8F%A5;%E2%9E%9C+500%2B+DSA+Problems+Solved+%E2%9A%A1;%E2%9E%9C+AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;%E2%9E%9C+Open+to+Full-time+Opportunities+%F0%9F%9A%80;%E2%9E%9C+B.Tech+CSE+%E2%80%94+GIET+Rajahmundry+2025+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
+
+</div>
 
 <br/><br/>
 
