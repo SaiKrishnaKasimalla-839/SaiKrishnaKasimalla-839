@@ -33,7 +33,7 @@ const saiKrishna = {
   location : "Hyderabad, IN 🇮🇳",
   building : "AI Powered Medico 🏥",
   learning : "DevSecOps + Microservices",
-  dsa      : "500+ problems solved ⚡",
+  dsa      : "200+ problems solved ⚡",
   certs    : ["AWS Cloud Practitioner ☁️",
               "IT Specialist Java ☕"],
   goal     : "Full-time Dev Role 🚀"
