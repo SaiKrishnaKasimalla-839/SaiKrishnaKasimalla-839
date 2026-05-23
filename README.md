@@ -100,15 +100,18 @@ const saiKrishna = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
+<!-- Stats Card — using stats.quine.sh (highly reliable, no rate limits) -->
+<img height="180em" src="https://stats.quine.sh/SaiKrishnaKasimalla-839/github?theme=dark" alt="GitHub Stats" onerror="this.style.display='none'" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
+<!-- Top Languages — using github-readme-stats with cache busting -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKrishnaKasimalla-839&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+<!-- Streak stats — git.io/streak-stats is the most stable host -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=SaiKrishnaKasimalla-839&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 
 </div>
 
