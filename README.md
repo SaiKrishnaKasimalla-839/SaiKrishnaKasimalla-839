@@ -1,46 +1,98 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,40:1a0a0f,70:2d0a0a,100:e8401a&amp;height=240&amp;section=header&amp;text=Sai%20Krishna%20Kasimalla&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%26%20React%20%E2%80%A2%20AWS%20Certified&amp;descAlignY=58&amp;descColor=ffb3a0&amp;descSize=16"/>
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Krishna%20Kasimalla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Cloud%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;duration=2600&amp;pause=800&amp;color=E8401A&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;lines=%E2%9E%9C+Building+AI+Powered+Medico+%F0%9F%8F%A5;%E2%9E%9C+500%2B+DSA+Problems+Solved+%E2%9A%A1;%E2%9E%9C+AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;%E2%9E%9C+Open+to+Full-time+Opportunities+%F0%9F%9A%80;%E2%9E%9C+B.Tech+CSE+%E2%80%94+GIET+Rajahmundry+2025+%F0%9F%8E%93" alt="Typing SVG" />
-</a>
+</div>
 
-<br/><br/>
-
-<!-- BADGES -->
-![Status](https://img.shields.io/badge/%E2%97%8F%20Status-Open%20to%20Work-E8401A?style=for-the-badge&labelColor=0a0a0f)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a0a0f)
-![Java](https://img.shields.io/badge/IT%20Specialist-Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0f)
-![Views](https://komarev.com/ghpvc/?username=saikrishnakasimalla-839&style=for-the-badge&color=1a3ae8&label=PROFILE+VIEWS&labelColor=0a0a0f)
-
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full+Stack+Apps+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+Python;AWS+%26+Azure+Cloud+Engineer+%E2%98%81%EF%B8%8F;500%2B+DSA+Problems+Solved+%E2%9A%A1;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=saikrishnakasimalla-839&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e8401a&amp;icon_color=1a3ae8&amp;text_color=8b949e&amp;ring_color=e8401a"/>
+## 🧠 `whoami`
 
-### `whoami`
-
-```js
+```ts
 const saiKrishna = {
-  role     : "Full Stack Developer",
-  college  : "GIET Rajahmundry · CSE · 2025",
-  location : "Hyderabad, IN 🇮🇳",
-  building : "AI Powered Medico 🏥",
-  learning : "DevSecOps + Microservices",
-  dsa      : "200+ problems solved ⚡",
-  certs    : ["AWS Cloud Practitioner ☁️",
-              "IT Specialist Java ☕"],
-  goal     : "Full-time Dev Role 🚀"
+  role        : "Full Stack Developer & AI Builder",
+  college     : "GIET Rajahmundry • B.Tech CSE • 2025",
+  location    : "Hyderabad, India 🇮🇳",
+  building    : "NeuralOps — AI Agent Orchestration Platform",
+  learning    : ["DevSecOps", "Microservices", "LLM Engineering"],
+  dsa         : "500+ Problems Solved ⚡",
+  certs       : ["AWS Cloud Practitioner ☁️", "IT Specialist: Java 🏆"],
+  goal        : "Forward Deployed Engineer @ AI-First Company 🎯",
+  funFact     : "I ship code AND write about it 📝",
 };
 ```
 
-<br clear="right"/>
+---
+
+## 🚀 Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|---|---|---|
+| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | ✅ Certified |
+| ☕ **IT Specialist: Java** | Pearson / Certiport | ✅ Certified |
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| 🤖 **[NeuralOps](https://github.com/SaiKrishnaKasimalla-839)** — AI Agent Orchestration Platform | React · Spring Boot · Azure | Multi-agent orchestration, deployed on Azure Static Web Apps + App Service |
+| 🏦 **Vault** — Full Stack Banking Platform | React · Spring Boot · MySQL | End-to-end secure banking app with JWT auth, transaction management |
+| 🎓 **Virtual Classroom System** | Spring AI · Ollama · React | LLM-powered classroom with DeepSeek integration via Spring AI |
+| 🔗 **Blockchain Product Verification** | Blockchain · Java · React | Final year capstone — led team of 4, decentralized product auth system |
+
+</div>
 
 ---
 
@@ -48,99 +100,48 @@ const saiKrishna = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishnakasimalla-839&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=e8401a&amp;fire=1a3ae8&amp;currStreakLabel=e8401a&amp;sideLabels=8b949e&amp;dates=484f58"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnakasimalla-839&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e8401a&amp;text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishnakasimalla-839&amp;bg_color=0d1117&amp;color=e8401a&amp;line=1a3ae8&amp;point=ffffff&amp;area=true&amp;area_color=e8401a&amp;hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
 
 </div>
-
----
-
-## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**— Core —**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**— Frontend —**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**— Cloud & Databases —**
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**— Tools —**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKrishnaKasimalla-839&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikrishnakasimalla-839&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" width="100%"/>
-</div>
-
----
-
-## 🚀 Featured Projects
+## ⚡ DSA Journey
 
 <div align="center">
 
-| 🏥 AI Powered Medico | ⚙️ Microservices Suite | 🧩 DSA Mastery |
-|---|---|---|
-| Intelligent healthcare assistant mapping symptoms to specialists using ML, with real-time booking & patient history | Production-grade Spring Boot microservices with API gateway, JWT auth, service discovery & Docker | 500+ problems systematically solved across LeetCode, HackerRank, CodeChef & GFG |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sai_krishna-123?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10)
 
 </div>
 
 ---
 
-## ⚔️ Competitive Programming
+## 📈 Contribution Graph
 
 <div align="center">
 
-| Platform | Handle | Focus |
-|:---:|:---:|:---|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/> | [sai\_krishna-123](https://www.leetcode.com/sai_krishna-123) | DSA · Arrays · Trees · DP · Graphs |
-| <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"/> | [saikrishnakasim1](https://www.hackerrank.com/saikrishnakasim1) | Java · Problem Solving · Certified |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white"/> | [saikrishnak\_45](https://www.codechef.com/users/saikrishnak_45) | Competitive Rounds |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white"/> | [saikrishna9xc3](https://auth.geeksforgeeks.org/user/saikrishna9xc3) | CS Fundamentals |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishnaKasimalla-839&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 2025 Targets
+## 🎯 What I'm Up To
 
 ```
- ██████████  Master Spring Boot Microservices ............. ✅ DONE
- ████░░░░░░  Contribute to Open Source ................... ⏳ IN PROGRESS
- ██░░░░░░░░  Crack Top-tier DSA Challenges ............... ⏳ IN PROGRESS
- ████░░░░░░  Ship AI Medico to Production ................. ⏳ IN PROGRESS
- ██░░░░░░░░  Land a Full-time Developer Role .............. 🎯 TARGET
+🔨  Building   →  NeuralOps (AI Agent Platform) on Azure
+📖  Learning   →  LLM Engineering · DevSecOps · Microservices  
+🎯  Targeting  →  Forward Deployed Eng | AI Engineer | Developer Advocate
+📝  Writing    →  Tech blogs on AI, Cloud & Full Stack
+🏏  Unwinding  →  Cricket · Gaming · Open Source
 ```
 
 ---
@@ -149,11 +150,10 @@ const saiKrishna = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-kasimalla)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishnakasimalla@gmail.com)
-&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-E8401A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1P2wL99wLj9xpsSjbB8ChDINTLsH0iFEM/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-kasimalla-126b67252)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiKrishnaKasimalla-839)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sai_krishna-123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishnakasimalla@gmail.com)
 
 </div>
 
@@ -161,16 +161,13 @@ const saiKrishna = {
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikrishnakasimalla-839/saikrishnakasimalla-839/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikrishnakasimalla-839/saikrishnakasimalla-839/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/saikrishnakasimalla-839/saikrishnakasimalla-839/output/github-snake.svg"/>
-</picture>
+**⚡ Open to Full-time roles in Full Stack, AI/ML, and Cloud Engineering**
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+</div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e8401a,60:2d0a0a,100:0a0a0f&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
-
-*⭐ Star a repo if it helped you · Built with focus, shipped with pride*
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </div>
