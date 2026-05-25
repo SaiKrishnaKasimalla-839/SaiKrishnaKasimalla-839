@@ -4,8 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Krishna%20Kasimalla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Cloud%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
 </div>
-
-<!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full+Stack+Apps+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+Python;AWS+%26+Azure+Cloud+Engineer+%E2%98%81%EF%B8%8F;500%2B+DSA+Problems+Solved+%E2%9A%A1;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
