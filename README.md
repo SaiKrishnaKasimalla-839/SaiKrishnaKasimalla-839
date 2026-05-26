@@ -26,7 +26,6 @@ const saiKrishna = {
   funFact     : "I ship code AND write about it 📝",
 };
 ```
-
 ---
 
 ## 🚀 Tech Arsenal
