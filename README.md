@@ -20,7 +20,7 @@ const saiKrishna = {
   location    : "Hyderabad, India 🇮🇳",
   building    : "NeuralOps — AI Agent Orchestration Platform",
   learning    : ["DevSecOps", "Microservices", "LLM Engineering"],
-  dsa         : "500+ Problems Solved ⚡",
+  dsa         : "200+ Problems Solved ⚡",
   certs       : ["AWS Cloud Practitioner ☁️", "IT Specialist: Java 🏆"],
   goal        : "Forward Deployed Engineer @ AI-First Company 🎯",
   funFact     : "I ship code AND write about it 📝",
