@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!--  SAI KRISHNA KASIMALLA — GITHUB PROFILE README  v4.0 PRO    -->
+<!--  SAI KRISHNA KASIMALLA — GITHUB PROFILE README  v4.1 PRO    -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -64,11 +64,11 @@ status   : 🟢 Open to full-time fresher roles — available immediately
 
 ```mermaid
 flowchart LR
-    A([🎓 GIET CSE\n2021–2025]) --> B[/💼 TechWing\nJava FS Trainee/]
-    B --> C{☁️ AWS Cloud\nPractitioner}
-    C --> D{☕ Java IT\nSpecialist}
-    D --> E[[🤖 IntelliAgent AI\nTerraform·Docker·Azure]]
-    E --> F((🎯 DevOps Engineer\n🟢 OPEN TO WORK))
+    A(["🎓 GIET CSE<br/>2021–2025"]) --> B[/"💼 TechWing<br/>Java FS Trainee"/]
+    B --> C{"☁️ AWS Cloud<br/>Practitioner"}
+    C --> D{"☕ Java IT<br/>Specialist"}
+    D --> E[["🤖 IntelliAgent AI<br/>Terraform · Docker · Azure"]]
+    E --> F(("🎯 DevOps Engineer<br/>🟢 OPEN TO WORK"))
 
     classDef done fill:#0f0c29,stroke:#22D3EE,stroke-width:2px,color:#e6edf3
     classDef now fill:#1a0533,stroke:#22D3EE,stroke-width:3px,color:#22D3EE
@@ -233,7 +233,7 @@ Product authenticity verification system using smart-contract logic and a React 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiKrishnaKasimalla-839/SaiKrishnaKasimalla-839/output/github-snake.svg" />
   <img alt="github contribution snake" width="100%" src="https://raw.githubusercontent.com/SaiKrishnaKasimalla-839/SaiKrishnaKasimalla-839/output/github-snake.svg" />
 </picture>
-<sub>Setup: add <code>.github/workflows/snake.yml</code> using the <code>Platane/snk</code> action</sub>
+<sub>⚠️ This only renders once you add the workflow below to your profile repo — see setup notes at the bottom.</sub>
 </div>
 
 ---
