@@ -1,192 +1,158 @@
 <!-- ============================================================ -->
-<!--  SAI KRISHNA KASIMALLA — GITHUB PROFILE README  v4.1 PRO    -->
+<!--  SAI KRISHNA KASIMALLA — GITHUB PROFILE README  v5.0 // ROOT -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:1a0533,100:22D3EE&height=200&section=header&text=Sai%20Krishna%20Kasimalla&fontSize=44&fontColor=ffffff&fontAlignY=48&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%26%20IaC%20%E2%80%A2%20Java%20Full%20Stack&descAlignY=68&descSize=15&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003b0f,100:39FF14&height=160&text=&section=header" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=terraform+apply+--auto-approve+career.tf;docker+run+--rm+saikrishna%2Fdevops-engineer;git+push+origin+main+%23+pipeline+triggered+%E2%9C%85;kubectl+get+pods+--all-namespaces+%F0%9F%9A%80;Status%3A+%F0%9F%9F%A2+OPEN+TO+WORK" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-kasimalla-126b67252)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Sai_krishna-123)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saikrishnakasim1)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/saikrishnak_45)
-&nbsp;
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/saikrishna9xc3)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saikrishnakasimalla@gmail.com)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=SaiKrishnaKasimalla-839&label=Profile+Views&color=22D3EE&style=flat-square)
-
-</div>
-
----
-
-## `$ cat profile.yaml`
-
-```yaml
-name     : Sai Krishna Kasimalla
-degree   : B.Tech CSE — GIET Rajahmundry (2025) · CGPA 8.61
-location : Hyderabad, India 🇮🇳
-focus    : DevOps Engineer — automate everything between code and production
-secondary: Java Full Stack · Backend · Cloud Engineering
-status   : 🟢 Open to full-time fresher roles — available immediately
-# "If it can be scripted, it should never be manual."
 ```
 
-<br>
+███████╗ █████╗ ██╗    ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗ 
+██╔════╝██╔══██╗██║    ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗
+███████╗███████║██║    █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║
+╚════██║██╔══██║██║    ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║
+███████║██║  ██║██║    ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
-<div align="center">
+```
 
-| 🎯 Actively Seeking | ☁️ AWS Certified | ☕ Java Specialist | ⚡ 500+ DSA | 🟢 Available Now |
-|:---:|:---:|:---:|:---:|:---:|
-| DevOps Engineer | Cloud Practitioner | Pearson / Certiport | Across 4 Platforms | Immediately |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=780&lines=root%40devops%3A~%23+ssh+sai-krishna%40india;Connecting+to+production...+%5BOK%5D;Loading+career.tf+...+done;terraform+apply+--auto-approve;Status%3A+%F0%9F%9F%A2+OPEN_TO_WORK" />
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-39FF14?style=flat-square&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/sai-krishna-kasimalla-126b67252)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LEETCODE-39FF14?style=flat-square&logo=leetcode&logoColor=black&labelColor=000000)](https://leetcode.com/Sai_krishna-123)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-39FF14?style=flat-square&logo=hackerrank&logoColor=black&labelColor=000000)](https://www.hackerrank.com/saikrishnakasim1)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CODECHEF-39FF14?style=flat-square&logo=codechef&logoColor=black&labelColor=000000)](https://www.codechef.com/users/saikrishnak_45)
+&nbsp;
+[![GFG](https://img.shields.io/badge/GFG-39FF14?style=flat-square&logo=geeksforgeeks&logoColor=black&labelColor=000000)](https://auth.geeksforgeeks.org/user/saikrishna9xc3)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/EMAIL-39FF14?style=flat-square&logo=gmail&logoColor=black&labelColor=000000)](mailto:saikrishnakasimalla@gmail.com)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=SaiKrishnaKasimalla-839&label=VIEWS&color=39FF14&style=flat-square&labelColor=000000)
 
 </div>
 
 ---
 
-## 🗺 Career Pipeline
+### `$ neofetch --user sai-krishna`
 
-```mermaid
-flowchart LR
-    A(["🎓 GIET CSE<br/>2021–2025"]) --> B[/"💼 TechWing<br/>Java FS Trainee"/]
-    B --> C{"☁️ AWS Cloud<br/>Practitioner"}
-    C --> D{"☕ Java IT<br/>Specialist"}
-    D --> E[["🤖 IntelliAgent AI<br/>Terraform · Docker · Azure"]]
-    E --> F(("🎯 DevOps Engineer<br/>🟢 OPEN TO WORK"))
+```
 
-    classDef done fill:#0f0c29,stroke:#22D3EE,stroke-width:2px,color:#e6edf3
-    classDef now fill:#1a0533,stroke:#22D3EE,stroke-width:3px,color:#22D3EE
-    class A,B,C,D,E done
-    class F now
+   _____ ___       _____    KASIMALLA SAI KRISHNA
+  / ___//   |     / ___ \   ──────────────────────────
+  \__ \/ /| |    / /  / /   OS:        DevOps Engineer (Fresher)
+ ___/ / ___ |   / /__/ /    Host:      Hyderabad, India 🇮🇳
+/____/_/  |_|   \____/_/    Kernel:    B.Tech CSE — GIET (2025) · 8.61 CGPA
+                             Shell:     bash / terraform / kubectl
+                             Uptime:    Available immediately
+                             Packages:  Terraform, Docker, K8s, Java, Spring
+                             Certs:     AWS Cloud Practitioner · Java IT Specialist
+                             Status:    🟢 OPEN TO WORK — full-time, relocation OK
+
 ```
 
 ---
 
-## 🚀 Project Showcase
+### `$ git log --graph --oneline --all --decorate`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```
 
-### 🤖 IntelliAgent AI / NeuralOps
-> **`Flagship Project`**
+*  a1c92f0 (HEAD -> main, tag: devops-engineer) 🎯 Open to work — applying now
+*  e88d3a1 (tag: intelliagent-ai) 🤖 Built IntelliAgent AI — Terraform·Docker·Azure
+*  b47f201 (tag: java-it-specialist) ☕ Certified: IT Specialist Java (Pearson/Certiport)
+*  c90a774 (tag: aws-cloud-practitioner) ☁️  Certified: AWS Cloud Practitioner
+*  f1d8e62 (tag: techwing-trainee) 💼 Java Full Stack Trainee @ TechWing
+*  9b2c001 (tag: giet-cse) 🎓 B.Tech CSE — GIET Rajahmundry · 2021–2025
 
-**Terraform · Docker · GitHub Actions · Azure DevOps · Microsoft Azure**
-
-Modular Terraform provisions Azure infra end-to-end. Docker packages the app. GitHub Actions + Azure DevOps automate **build → test → deploy → release** on every push.
-
-**Result:** Repeatable, version-controlled infra with zero manual console clicks.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 AI MediSync
-> **`In Progress`**
-
-**Spring Boot Microservices · React.js · MySQL · JWT · Spring AI**
-
-Healthcare platform with prescription OCR/AI extraction, medicine reminders, appointment management, and a Doctor Dashboard. API Gateway + Eureka Service Discovery architecture.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Vault
-> **`Full Stack`**
-
-**Java · Spring Boot · React.js · MySQL**
-
-Banking platform with JWT authentication, full transaction ledger, role-based access control, and a responsive React front end backed by a Spring Boot REST API.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 Blockchain Verification
-> **`Capstone · Team Lead`**
-
-**Blockchain · Java · React · 4-member team**
-
-Product authenticity verification system using smart-contract logic and a React dashboard. Led end-to-end: architecture, smart contracts, and delivery.
-
-</td>
-</tr>
-</table>
+```
 
 ---
 
-## ⚙️ Tech Stack
+### `$ cat ~/projects/*.json`
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><b>🧠 Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=java,python,js,bash&theme=dark" />
-</td>
-<td align="center"><b>☁️ Cloud & IaC</b><br><br>
-<img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible&theme=dark" />
-</td>
-<td align="center"><b>🔁 CI/CD</b><br><br>
-<img src="https://skillicons.dev/icons?i=githubactions,docker,jenkins,kubernetes&theme=dark" />
-</td>
-<td align="center"><b>🧩 Full Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql&theme=dark" />
-</td>
-<td align="center"><b>📊 Data & Ops</b><br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,redis,grafana,linux&theme=dark" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<br>
-<b>☁️ AWS Certified Cloud Practitioner</b>
-<br><sub>Amazon Web Services</sub><br>
-<img src="https://img.shields.io/badge/Status-Active-4ade80?style=flat-square&labelColor=010409" />
-<br><br>
-</td>
-<td align="center" width="50%">
-<br>
-<b>☕ IT Specialist: Java</b>
-<br><sub>Pearson / Certiport</sub><br>
-<img src="https://img.shields.io/badge/Status-Active-4ade80?style=flat-square&labelColor=010409" />
-<br><br>
-</td>
-</tr>
-</table>
-
-</div>
+```json
+[
+  {
+    "name": "IntelliAgent AI / NeuralOps",
+    "status": "flagship",
+    "stack": ["Terraform", "Docker", "GitHub Actions", "Azure DevOps", "Azure"],
+    "description": "Modular Terraform provisions Azure infra end-to-end. Docker packages the app. GitHub Actions + Azure DevOps automate build → test → deploy → release on every push.",
+    "result": "Repeatable, version-controlled infra with zero manual console clicks."
+  },
+  {
+    "name": "AI MediSync",
+    "status": "in_progress",
+    "stack": ["Spring Boot Microservices", "React.js", "MySQL", "JWT", "Spring AI"],
+    "description": "Healthcare platform with prescription OCR/AI extraction, medicine reminders, appointment management, and a Doctor Dashboard.",
+    "architecture": "API Gateway + Eureka Service Discovery"
+  },
+  {
+    "name": "Vault",
+    "status": "full_stack",
+    "stack": ["Java", "Spring Boot", "React.js", "MySQL"],
+    "description": "Banking platform with JWT authentication, full transaction ledger, role-based access control, and a responsive React front end backed by a Spring Boot REST API."
+  },
+  {
+    "name": "Blockchain Verification",
+    "status": "capstone",
+    "role": "team_lead",
+    "team_size": 4,
+    "stack": ["Blockchain", "Java", "React"],
+    "description": "Product authenticity verification system using smart-contract logic and a React dashboard. Led architecture, smart contracts, and delivery end-to-end."
+  }
+]
+```
 
 ---
 
-## ⚡ Competitive Programming — 500+ Solves
+### `$ cat /etc/skills.conf`
+
+<table>
+<tr>
+<td align="center"><b>LANG</b><br><br><img src="https://skillicons.dev/icons?i=java,python,js,bash&theme=dark" /></td>
+<td align="center"><b>CLOUD</b><br><br><img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible&theme=dark" /></td>
+<td align="center"><b>CI/CD</b><br><br><img src="https://skillicons.dev/icons?i=githubactions,docker,jenkins,kubernetes&theme=dark" /></td>
+<td align="center"><b>STACK</b><br><br><img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql&theme=dark" /></td>
+<td align="center"><b>OPS</b><br><br><img src="https://skillicons.dev/icons?i=mongodb,redis,grafana,linux&theme=dark" /></td>
+</tr>
+</table>
+
+```
+
+Terraform / IaC         █████████████████░░░  85%
+Docker                  █████████████████░░░  85%
+GitHub Actions / CI-CD  ████████████████░░░░  80%
+Azure                   ████████████████░░░░  80%
+Java / Spring Boot      █████████████████░░░  85%
+AWS                     ███████████████░░░░░  75%
+React.js                ██████████████░░░░░░  70%
+Kubernetes              ████████████░░░░░░░░  60%
+
+```
+
+---
+
+### `$ verify --all-certs`
+
+```
+
+[✓] VALID   AWS Certified Cloud Practitioner        — Amazon Web Services
+[✓] VALID   IT Specialist: Java                     — Pearson / Certiport
+
+```
+
+---
+
+### `$ curl -s competitive-stats.sh | bash`
 
 <div align="center">
 
@@ -194,38 +160,40 @@ Product authenticity verification system using smart-contract logic and a React 
 
 <br>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-saikrishnakasim1-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=010409)](https://www.hackerrank.com/saikrishnakasim1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-saikrishnakasim1-39FF14?style=flat-square&logoColor=black&labelColor=000000)](https://www.hackerrank.com/saikrishnakasim1)
 &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-saikrishnak__45-5B4638?style=flat-square&logo=codechef&logoColor=white&labelColor=010409)](https://www.codechef.com/users/saikrishnak_45)
+[![CodeChef](https://img.shields.io/badge/CodeChef-saikrishnak__45-39FF14?style=flat-square&logoColor=black&labelColor=000000)](https://www.codechef.com/users/saikrishnak_45)
 &nbsp;
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-saikrishna9xc3-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white&labelColor=010409)](https://auth.geeksforgeeks.org/user/saikrishna9xc3)
+[![GFG](https://img.shields.io/badge/GFG-saikrishna9xc3-39FF14?style=flat-square&logoColor=black&labelColor=000000)](https://auth.geeksforgeeks.org/user/saikrishna9xc3)
+
+**500+ problems solved across 4 platforms**
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### `$ git fetch --stats origin/SaiKrishnaKasimalla-839`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&theme=tokyonight&hide_border=true&bg_color=010409&title_color=22D3EE&icon_color=a78bfa&text_color=8b949e&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&theme=tokyonight&hide_border=true&bg_color=010409&title_color=22D3EE&text_color=8b949e&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9&langs_count=8" />
 
 <br>
 
-<img width="85%" src="https://streak-stats.demolab.com/?user=SaiKrishnaKasimalla-839&theme=tokyonight&hide_border=true&background=010409&stroke=22D3EE&ring=a78bfa&fire=f97316&currStreakLabel=ffffff&sideLabels=8b949e&dates=484f58" />
+<img width="85%" src="https://streak-stats.demolab.com/?user=SaiKrishnaKasimalla-839&theme=github-dark-blue&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=FFB000&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
 
 <details>
-<summary align="center"><b>📈 Contribution Activity Graph</b></summary>
+<summary align="center"><b>📈 contribution-graph --verbose</b></summary>
 <br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishnaKasimalla-839&bg_color=010409&color=22D3EE&line=a78bfa&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishnaKasimalla-839&bg_color=000000&color=39FF14&line=FFB000&point=ffffff&area=true&hide_border=true" />
 </details>
 
 ---
 
-## 🐍 Contribution Snake
+### `$ ./snake.sh --animate`
 
 <div align="center">
 <picture>
@@ -233,42 +201,42 @@ Product authenticity verification system using smart-contract logic and a React 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiKrishnaKasimalla-839/SaiKrishnaKasimalla-839/output/github-snake.svg" />
   <img alt="github contribution snake" width="100%" src="https://raw.githubusercontent.com/SaiKrishnaKasimalla-839/SaiKrishnaKasimalla-839/output/github-snake.svg" />
 </picture>
-<sub>⚠️ This only renders once you add the workflow below to your profile repo — see setup notes at the bottom.</sub>
+<sub>⚠️ renders only after <code>.github/workflows/snake.yml</code> (Platane/snk action) runs once on your profile repo</sub>
 </div>
 
 ---
 
-## 🎯 Right Now
+### `$ tail -f status.log`
 
 ```diff
-+ Applying   : DevOps Engineer — fresher roles across India (primary)
-+ Secondary  : Java Full Stack · Backend · Software Engineer
-+ Building   : AI MediSync — healthcare microservices platform
-+ Learning   : Kubernetes · Advanced Terraform Modules · DevSecOps
-! Side Quest : Telugu YouTube series documenting the fresher job-hunt grind
-# Available immediately · Full-time · Open to relocation
++ [APPLYING]  DevOps Engineer — fresher roles across India (primary)
++ [SECONDARY] Java Full Stack · Backend · Software Engineer
++ [BUILDING]  AI MediSync — healthcare microservices platform
++ [LEARNING]  Kubernetes · Advanced Terraform Modules · DevSecOps
+! [SIDEQUEST] Telugu YouTube series documenting the fresher job-hunt grind
+# tail: status.log -- available immediately · full-time · open to relocation
 ```
 
 ---
 
 <div align="center">
 
-### 🌐 Let's Connect
+### `$ ssh connect@sai-krishna`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-kasimalla-126b67252)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/sai-krishna-kasimalla-126b67252)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishnakasimalla@gmail.com)
+[![Gmail](https://img.shields.io/badge/EMAIL-HIRE_ME-39FF14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:saikrishnakasimalla@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiKrishnaKasimalla-839)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/SaiKrishnaKasimalla-839)
 
 <br>
 
-**⚡ Open to full-time fresher roles — DevOps · Cloud · Java Full Stack**
+```
+$ echo "Open to full-time fresher roles — DevOps · Cloud · Java Full Stack"
+$ echo "Provision it. Containerize it. Automate the rest."
+$ exit 0
+```
 
-*"Provision it. Containerize it. Automate the rest."*
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,30:a78bfa,70:0f3460,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:003b0f,100:000000&height=100&section=footer" />
 
 </div>
