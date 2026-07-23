@@ -5,7 +5,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003b0f,100:39FF14&height=160&text=&section=header" />
-
 </div>
 
 <div align="center">
