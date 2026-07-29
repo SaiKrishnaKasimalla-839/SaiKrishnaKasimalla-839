@@ -156,8 +156,8 @@ Product‑authenticity verification system using smart‑contract logic and a Re
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=C724B1&text_color=c9d1d9&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00E5FF&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=C724B1&text_color=c9d1d9&count_private=true&rank_icon=github&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00E5FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 
 <br><br>
 
@@ -172,7 +172,7 @@ Product‑authenticity verification system using smart‑contract logic and a Re
 <details>
 <summary align="center"><b>📈 Contribution Activity</b></summary>
 <br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishnaKasimalla-839&bg_color=0f0c29&color=00E5FF&line=C724B1&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishnaKasimalla-839&bg_color=0f0c29&color=00E5FF&line=C724B1&point=ffffff&area=true&hide_border=true&cache_seconds=86400" />
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:5b2a86,100:0f0c29&height=3" />
