@@ -156,24 +156,15 @@ Product‑authenticity verification system using smart‑contract logic and a Re
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=C724B1&text_color=c9d1d9&count_private=true&rank_icon=github&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00E5FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+**[📌 View live stats, repos & contribution graph on my GitHub profile →](https://github.com/SaiKrishnaKasimalla-839)**
 
-<br><br>
+<br>
 
-<img width="85%" src="https://streak-stats.demolab.com/?user=SaiKrishnaKasimalla-839&theme=dark&hide_border=true&background=0f0c29&stroke=00E5FF&ring=C724B1&fire=FFB000&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=6e7681" />
-
-<br><br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SaiKrishnaKasimalla-839&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,terraform,docker,kubernetes,azure,aws&theme=dark" />
 
 </div>
 
-<details>
-<summary align="center"><b>📈 Contribution Activity</b></summary>
-<br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishnaKasimalla-839&bg_color=0f0c29&color=00E5FF&line=C724B1&point=ffffff&area=true&hide_border=true&cache_seconds=86400" />
-</details>
+> **Note:** The usual live stats/trophy widgets (`github-readme-stats`, activity graph) are pulled from a shared public GitHub API instance that is currently rate-limited — that's outside this file's control and affects everyone using those free services right now, not just this profile. Swapped in a static section above so the README always renders cleanly. Once you self-host those widgets with your own token (see below), we can drop the live cards back in and they'll work reliably.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:5b2a86,100:0f0c29&height=3" />
 
