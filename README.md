@@ -156,15 +156,22 @@ Product‑authenticity verification system using smart‑contract logic and a Re
 
 <div align="center">
 
-**[📌 View live stats, repos & contribution graph on my GitHub profile →](https://github.com/SaiKrishnaKasimalla-839)**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaKasimalla-839&show_icons=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=c724b1&text_color=E0C3FC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaKasimalla-839&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00E5FF&text_color=E0C3FC" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,terraform,docker,kubernetes,azure,aws&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKrishnaKasimalla-839&hide_border=true&background=0f0c29&ring=C724B1&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E0C3FC&currStreakNum=E0C3FC&sideNums=E0C3FC&dates=E0C3FC" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishnaKasimalla-839&theme=react-dark&bg_color=0f0c29&color=00E5FF&line=C724B1&point=E0C3FC&hide_border=true" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaiKrishnaKasimalla-839&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
-
-> **Note:** The usual live stats/trophy widgets (`github-readme-stats`, activity graph) are pulled from a shared public GitHub API instance that is currently rate-limited — that's outside this file's control and affects everyone using those free services right now, not just this profile. Swapped in a static section above so the README always renders cleanly. Once you self-host those widgets with your own token (see below), we can drop the live cards back in and they'll work reliably.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:5b2a86,100:0f0c29&height=3" />
 
