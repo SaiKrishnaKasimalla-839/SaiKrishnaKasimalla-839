@@ -7,7 +7,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:5b2a86,100:c724b1&height=210&section=header&text=Sai%20Krishna%20Kasimalla&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Cloud%20and%20Automation&descAlignY=56&descColor=E0C3FC" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=820&lines=root%40career%3A~%23+whoami;%3E+DevOps+Engineer+%7C+Cloud+and+Automation;%3E+terraform+apply+--auto-approve;%3E+docker+build+.+then+kubectl+apply+-f+.;%3E+Java+%2B+Spring+Boot+%2B+React+full-stack;%3E+status%3A+OPEN_TO_WORK+%F0%9F%9F%A2" />
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29)](https://linkedin.com/in/sai-krishna-kasimalla-126b67252)
